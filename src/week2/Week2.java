@@ -20,6 +20,7 @@ public class Week2 {
         // TODO code application logic here
    student st1=new student();
    st1.output();
+        System.out.println("jeel");
     }
     
     
