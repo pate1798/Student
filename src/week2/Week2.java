@@ -21,7 +21,7 @@ public class Week2 {
    
         System.out.println("jeel patel");
         int a =10;
-        int c=20;
+        int c=20;// aere oo git hub jayada gaand na fulavo
         int b= a+c;
         System.out.println("b is:"+b); 
     }
