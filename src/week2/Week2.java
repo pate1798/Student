@@ -25,9 +25,10 @@ public class Week2 {
         int c=20;// aere oo git hub jayada gaand na fulavo
         int b= a+c;
         System.out.println("b is:"+b); 
-        System.out.println(c);
-        System.out.println(a);
-        System.out.println(a+b);
+        System.out.println(c);//
+        System.out.println(a);//
+        System.out.println(a+b);//
+         System.,out.println("");////////////////////////////
     }
 
     /**
