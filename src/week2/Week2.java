@@ -18,9 +18,12 @@ public class Week2 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-   student st1=new student();
-   st1.output();
-        System.out.println("jeel");
+   
+        System.out.println("jeel patel");
+        int a =10;
+        int c=20;
+        int b= a+c;
+        System.out.println("b is:"+b); 
     }
     
     
