@@ -19,21 +19,27 @@ public class ArithmeticBase
     double calculate(double x, double y) 
         {
         Scanner sc =new Scanner(System.in);
-        System.out.println("enter String");
-        String s= sc.next();
-        switch (s.toUpperCase()) 
+        System.out.println("Enter 1 for addition");
+        System.out.println("Enter 2 for subtraction");
+        System.out.println("Enter 3 for multiplication");
+        System.out.println("Enter 4 for divison");
+        System.out.println("Enter a number for result");
+        int s= sc.nextInt();
+        
+        switch (s) 
         {
-            case "PLUS":
+            case 1:
                 return x + y;
-            case "MINUS":
+            case 2:
                 return x - y;
-            case "TIMES":
+            case 3:
                 return x * y;
-            case "DIVIDE":
+            case 4:
                 return x / y;
             default:
                 throw new AssertionError("Unknown operations " + this);
-        }
+        } 
+     
     }
    
 }
