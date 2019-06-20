@@ -3,8 +3,6 @@
  * Student ID: 991548626
  *  PROG24178 OOP-2 Java 
  */
-// jeel patel
-// practice
 package week2;
 
 /**
