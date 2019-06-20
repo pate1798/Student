@@ -27,6 +27,8 @@ public class Week2 {
         System.out.println(c);
         System.out.println(a);
         System.out.println(a+b);
+        // learn enumeration 
+        // jeel patel
     }
     
     
