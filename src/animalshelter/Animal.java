@@ -37,7 +37,7 @@ public class Animal {
     public String getName() {
         return name;
     }
-    public short adoptionFee(){ /// java used in software development
+    public short adoptionFee(){ 
        
         return 0;
     }
