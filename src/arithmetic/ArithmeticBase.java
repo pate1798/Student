@@ -15,8 +15,8 @@ import java.util.Scanner;
  */
 public class ArithmeticBase 
 {
- public double x,y;
-    double calculate(double x, double y) 
+  public double x,y;
+    public double calculate(double x, double y) 
         {
         Scanner sc =new Scanner(System.in);
         System.out.println("Enter 1 for addition");
