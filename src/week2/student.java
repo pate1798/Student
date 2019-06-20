@@ -45,7 +45,7 @@ public class student {
     }
    
     public void output(){
-        System.out.println
+        System.out.println(" ");
     }
     
 }
